@@ -1,6 +1,9 @@
 # Trilha JS Developer - Pokedex
 
-Desafio desenvolvido em HTML, CSS e JavaScript.
+Desafio desenvolvido em HTML, CSS e JavaScript, visando construir uma Pokedex consumindo
+a API RESTful Pokémon.
+
+O projeto apresenta os Pokemons de 1ª Geração com possiblidade de paginação.
 
 ## Conceitos Explorados
 
@@ -9,9 +12,11 @@ Desafio desenvolvido em HTML, CSS e JavaScript.
 - Protocolo HTTP
 - Consumo de APIs utilizando a Fetch Api
 
-## Pokedex
+## A aplicação
 
-Interessado em conhecer a aplicação [https://adriana-toni.github.io/js-developer-pokedex/](https://adriana-toni.github.io/js-developer-pokedex/), acesse aqui!
+<img src="https://github.com/adriana-toni/js-developer-pokedex/tree/main/assets/img/VisaoInicial.PNG">
+
+<img src="https://github.com/adriana-toni/js-developer-pokedex/tree/main/assets/img/VisaoFinal.PNG">
 
 ## Referências
 
