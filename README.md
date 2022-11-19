@@ -11,6 +11,8 @@ Desafio desenvolvido em HTML, CSS e JavaScript.
 
 ## Pokedex
 
+Interessado em conhecer a aplicação [https://adriana-toni.github.io/js-developer-pokedex/](acesse aqui!)
+
 ## Referências
 
 - [https://pokeapi.co/api/v2/pokemon](https://pokeapi.co/api/v2/pokemon): Especificação da API RESTful Pokémon
