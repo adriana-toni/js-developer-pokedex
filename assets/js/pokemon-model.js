@@ -1,8 +1,8 @@
-
+/* Definição da model Pokemon especifica da aplicação desenvolvida */
 class Pokemon {
-    number;
-    name;
-    type;
-    types = [];
-    photo;
+  id;
+  name;
+  type;
+  types = [];
+  img;
 }
