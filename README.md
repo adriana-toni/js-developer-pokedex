@@ -14,9 +14,9 @@ O projeto apresenta os Pokemons de 1ª Geração com possiblidade de paginação
 
 ## A aplicação
 
-<img src="https://github.com/adriana-toni/js-developer-pokedex/tree/main/assets/img/VisaoInicial.PNG">
+<img src="https://github.com/adriana-toni/js-developer-pokedex/blob/main/assets/img/VisaoInicial.PNG">
 
-<img src="https://github.com/adriana-toni/js-developer-pokedex/tree/main/assets/img/VisaoFinal.PNG">
+<img src="https://github.com/adriana-toni/js-developer-pokedex/blob/main/assets/img/VisaoFinal.PNG">
 
 ## Referências
 
