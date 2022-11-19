@@ -11,7 +11,7 @@ Desafio desenvolvido em HTML, CSS e JavaScript.
 
 ## Pokedex
 
-Interessado em conhecer a aplicação [https://adriana-toni.github.io/js-developer-pokedex/](acesse aqui!)
+Interessado em conhecer a aplicação [https://adriana-toni.github.io/js-developer-pokedex/](https://adriana-toni.github.io/js-developer-pokedex/), acesse aqui!
 
 ## Referências
 
